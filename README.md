@@ -13,5 +13,6 @@ Coursework project created for my Computer Algorithms and Moddeling module at th
 The zip file in this repository contains the NetBeans project, unzip the file and open as a NetBeans project.
 
 NetBeans can be downloaded [here](https://netbeans.org/)
+
 This project uses the external JFreeChart libary: [Download](http://www.jfree.org/jfreechart/)
 
